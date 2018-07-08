@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5ecb701d-0a6e-4dae-9eeb-63cccdafdbd1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "车库-赛车": {
+      "ver": "1.0.3",
+      "uuid": "80f38919-9699-4270-965a-b7593cd7d998",
+      "rawTextureUuid": "5ecb701d-0a6e-4dae-9eeb-63cccdafdbd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 1334,
+      "rawWidth": 750,
+      "rawHeight": 1334,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

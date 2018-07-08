@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "unlock-open",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.42,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "root/title": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                -0.009873949579831983,
+                0.4365546218487396,
+                0.5424369747899159,
+                1.015126050420168
+              ]
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -755,
+                348
+              ]
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": [
+                1,
+                500
+              ]
+            }
+          ]
+        }
+      },
+      "root/car_1_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.05,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.05,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "root/btn_3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.21666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2,
+                "y": 1.2
+              }
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "root/unlocklight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 350
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "root/unlocklizi": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "root/unlockglow": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

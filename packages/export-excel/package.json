@@ -1,0 +1,19 @@
+{
+  "name": "export-excel",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "每日给力/工具/导出配表": {
+      "message": "export-excel:export"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "export-excel",
+    "width": 400,
+    "height": 300
+  }
+}

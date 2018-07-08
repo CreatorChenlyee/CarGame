@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "merger-jinbi2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "root/season_1_bg/home_empty1": {
+        "props": {
+          "position": [],
+          "opacity": []
+        }
+      },
+      "root/season_1_bg/home_empty2": {
+        "props": {
+          "scale": []
+        }
+      },
+      "root/season_1_bg/home_empty3": {
+        "props": {
+          "position": [],
+          "opacity": []
+        }
+      },
+      "root/season_1_bg/New Layout": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -139.9375,
+                355.725
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -140,
+                379
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

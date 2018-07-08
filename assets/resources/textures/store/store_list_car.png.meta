@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3984bb94-f416-4e5d-9599-c82736677ceb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "store_list_car": {
+      "ver": "1.0.3",
+      "uuid": "a5a93811-5c7b-4eec-8119-5ea3eb8848a3",
+      "rawTextureUuid": "3984bb94-f416-4e5d-9599-c82736677ceb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 306,
+      "height": 353,
+      "rawWidth": 306,
+      "rawHeight": 355,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

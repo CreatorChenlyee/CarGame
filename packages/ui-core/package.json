@@ -1,0 +1,30 @@
+{
+  "name": "ui-core",
+  "version": "1.0.0",
+  "description": "666666",
+  "author": "mrglee",
+  "main": "main.js",
+  "scene-script":"scene-walker.js",
+  "main-menu": {
+    "每日给力/模板/创建场景": {
+      "message": "ui-core:show-create-scene-scene"
+    },
+    "每日给力/模板/创建对话框": {
+      "message": "ui-core:show-create-scene-dialog"
+    },
+    "每日给力/模板/创建动画": {
+      "message": "ui-core:show-create-scene-animation"
+    },
+    "每日给力/模板/创建项目": {
+      "message": "ui-core:show-create-project"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "创建界面文件",
+    "width": 400,
+    "height": 300
+  }
+
+}

@@ -1,0 +1,314 @@
+
+xiangzi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_image/zhixiangposui/jianzhu
+  rotate: false
+  xy: 405, 878
+  size: 202, 145
+  orig: 210, 151
+  offset: 4, 4
+  index: -1
+spine_image/zhixiangposui/light_up_00001
+  rotate: true
+  xy: 85, 51
+  size: 24, 108
+  orig: 189, 339
+  offset: 58, 24
+  index: -1
+spine_image/zhixiangposui/light_up_00002
+  rotate: false
+  xy: 365, 608
+  size: 80, 160
+  orig: 189, 339
+  offset: 58, 20
+  index: -1
+spine_image/zhixiangposui/light_up_00003
+  rotate: true
+  xy: 405, 775
+  size: 102, 209
+  orig: 189, 339
+  offset: 36, 19
+  index: -1
+spine_image/zhixiangposui/light_up_00004
+  rotate: false
+  xy: 302, 769
+  size: 102, 254
+  orig: 189, 339
+  offset: 36, 19
+  index: -1
+spine_image/zhixiangposui/light_up_00005
+  rotate: false
+  xy: 96, 735
+  size: 102, 288
+  orig: 189, 339
+  offset: 36, 19
+  index: -1
+spine_image/zhixiangposui/light_up_00006
+  rotate: false
+  xy: 96, 496
+  size: 102, 238
+  orig: 189, 339
+  offset: 36, 19
+  index: -1
+spine_image/zhixiangposui/light_up_00007
+  rotate: false
+  xy: 199, 761
+  size: 102, 262
+  orig: 189, 339
+  offset: 36, 19
+  index: -1
+spine_image/zhixiangposui/light_up_00008
+  rotate: true
+  xy: 608, 928
+  size: 95, 252
+  orig: 189, 339
+  offset: 43, 18
+  index: -1
+spine_image/zhixiangposui/light_up_00009
+  rotate: false
+  xy: 1, 716
+  size: 94, 307
+  orig: 189, 339
+  offset: 44, 18
+  index: -1
+spine_image/zhixiangposui/light_up_00010
+  rotate: false
+  xy: 1, 462
+  size: 94, 253
+  orig: 189, 339
+  offset: 44, 18
+  index: -1
+spine_image/zhixiangposui/light_up_00011
+  rotate: false
+  xy: 96, 263
+  size: 94, 232
+  orig: 189, 339
+  offset: 44, 18
+  index: -1
+spine_image/zhixiangposui/light_up_00012
+  rotate: true
+  xy: 615, 833
+  size: 94, 227
+  orig: 189, 339
+  offset: 44, 18
+  index: -1
+spine_image/zhixiangposui/light_up_00013
+  rotate: false
+  xy: 1, 222
+  size: 94, 239
+  orig: 189, 339
+  offset: 44, 17
+  index: -1
+spine_image/zhixiangposui/light_up_00014
+  rotate: false
+  xy: 199, 507
+  size: 83, 253
+  orig: 189, 339
+  offset: 44, 22
+  index: -1
+spine_image/zhixiangposui/light_up_00015
+  rotate: false
+  xy: 1, 4
+  size: 83, 217
+  orig: 189, 339
+  offset: 44, 22
+  index: -1
+spine_image/zhixiangposui/light_up_00016
+  rotate: true
+  xy: 615, 750
+  size: 82, 227
+  orig: 189, 339
+  offset: 44, 22
+  index: -1
+spine_image/zhixiangposui/light_up_00017
+  rotate: false
+  xy: 283, 527
+  size: 81, 233
+  orig: 189, 339
+  offset: 44, 25
+  index: -1
+spine_image/zhixiangposui/light_up_00018
+  rotate: false
+  xy: 96, 230
+  size: 54, 32
+  orig: 189, 339
+  offset: 71, 136
+  index: -1
+spine_image/zhixiangposui/light_up_00019
+  rotate: true
+  xy: 997, 825
+  size: 51, 14
+  orig: 189, 339
+  offset: 72, 138
+  index: -1
+spine_image/zhixiangposui/light_up_00020
+  rotate: true
+  xy: 843, 877
+  size: 50, 11
+  orig: 189, 339
+  offset: 73, 141
+  index: -1
+spine_image/zhixiangposui/light_up_00021
+  rotate: false
+  xy: 594, 765
+  size: 9, 9
+  orig: 189, 339
+  offset: 74, 144
+  index: -1
+spine_image/zhixiangposui/light_up_00022
+  rotate: false
+  xy: 302, 761
+  size: 8, 7
+  orig: 189, 339
+  offset: 75, 147
+  index: -1
+spine_image/zhixiangposui/zhixiangpengzhang_00000
+  rotate: false
+  xy: 191, 232
+  size: 136, 123
+  orig: 167, 156
+  offset: 15, 16
+  index: -1
+spine_image/zhixiangposui/zhixiangpengzhang_00001
+  rotate: false
+  xy: 592, 501
+  size: 142, 129
+  orig: 167, 156
+  offset: 12, 12
+  index: -1
+spine_image/zhixiangposui/zhixiangpengzhang_00002
+  rotate: false
+  xy: 446, 639
+  size: 147, 135
+  orig: 167, 156
+  offset: 9, 9
+  index: -1
+spine_image/zhixiangposui/zhixiangpengzhang_00003
+  rotate: false
+  xy: 843, 736
+  size: 153, 140
+  orig: 167, 156
+  offset: 6, 6
+  index: -1
+spine_image/zhixiangposui/zhixiangpengzhang_00004
+  rotate: false
+  xy: 861, 877
+  size: 159, 146
+  orig: 167, 156
+  offset: 3, 3
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-light_00001
+  rotate: true
+  xy: 548, 456
+  size: 48, 43
+  orig: 294, 289
+  offset: 118, 113
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-light_00003
+  rotate: false
+  xy: 446, 505
+  size: 145, 133
+  orig: 294, 289
+  offset: 72, 65
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-light_00005
+  rotate: true
+  xy: 191, 356
+  size: 139, 124
+  orig: 294, 289
+  offset: 73, 73
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-light_00007
+  rotate: true
+  xy: 316, 406
+  size: 120, 116
+  orig: 294, 289
+  offset: 86, 72
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-light_00009
+  rotate: false
+  xy: 328, 303
+  size: 104, 102
+  orig: 294, 289
+  offset: 92, 81
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-light_00011
+  rotate: true
+  xy: 205, 1
+  size: 92, 98
+  orig: 294, 289
+  offset: 98, 81
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-light_00013
+  rotate: false
+  xy: 365, 535
+  size: 73, 72
+  orig: 294, 289
+  offset: 107, 101
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00006
+  rotate: false
+  xy: 433, 312
+  size: 107, 95
+  orig: 160, 145
+  offset: 29, 30
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00008
+  rotate: false
+  xy: 433, 408
+  size: 114, 96
+  orig: 160, 145
+  offset: 25, 28
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00010
+  rotate: true
+  xy: 741, 627
+  size: 122, 100
+  orig: 160, 145
+  offset: 21, 26
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00012
+  rotate: true
+  xy: 735, 497
+  size: 129, 105
+  orig: 160, 145
+  offset: 17, 23
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00014
+  rotate: true
+  xy: 205, 94
+  size: 137, 112
+  orig: 160, 145
+  offset: 13, 19
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00016
+  rotate: false
+  xy: 841, 493
+  size: 145, 118
+  orig: 160, 145
+  offset: 8, 15
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00018
+  rotate: false
+  xy: 594, 631
+  size: 146, 118
+  orig: 160, 145
+  offset: 6, 15
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00020
+  rotate: true
+  xy: 85, 76
+  size: 145, 119
+  orig: 160, 145
+  offset: 6, 13
+  index: -1
+spine_image/zhixiangposui/zhixiangposui-suipian_00022
+  rotate: false
+  xy: 842, 612
+  size: 146, 123
+  orig: 160, 145
+  offset: 5, 10
+  index: -1

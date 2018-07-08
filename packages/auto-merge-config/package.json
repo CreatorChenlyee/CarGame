@@ -1,0 +1,25 @@
+{
+  "name": "auto-merge-config",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu_disable": {
+    "i18n:MAIN_MENU.package.title/auto-merge-config/start": {
+      "message": "auto-merge-config:start-merger"
+    },
+    "i18n:MAIN_MENU.package.title/auto-merge-config/stop": {
+      "message": "auto-merge-config:stop-merger"
+    },
+    "i18n:MAIN_MENU.package.title/auto-merge-config/togglelog": {
+      "message": "auto-merge-config:toggle-log"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "auto-merge-config",
+    "width": 400,
+    "height": 300
+  }
+}

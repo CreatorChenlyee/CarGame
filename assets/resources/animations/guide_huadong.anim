@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guide_huadong",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "root/guideCursor/Cursor": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -70,
+                -70
+              ],
+              "curve": [
+                0.47,
+                0.88,
+                0.52,
+                0.93
+              ]
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": [
+                190,
+                -70
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "root/guideCursor/yellow_light_boom_00000": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

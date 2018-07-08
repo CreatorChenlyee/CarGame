@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "unlock-loop",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 10,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "root/title": {
+        "props": {
+          "opacity": [],
+          "position": []
+        }
+      },
+      "root/car_1_1": {
+        "props": {
+          "scale": [],
+          "opacity": []
+        }
+      },
+      "root/btn_3": {
+        "props": {
+          "scale": []
+        }
+      },
+      "root/unlockglow": {
+        "props": {}
+      },
+      "root/unlocklight": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "root/unlocklizi": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 255
+            },
+            {
+              "frame": 7,
+              "value": 0
+            },
+            {
+              "frame": 8,
+              "value": 255
+            },
+            {
+              "frame": 9,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

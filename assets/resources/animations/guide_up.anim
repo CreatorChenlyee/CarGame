@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guide_up",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "root/guideCursor/yellow_light_boom_00000": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "root/guideCursor/Cursor": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                130,
+                -70
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                129,
+                -26
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                130,
+                -70
+              ]
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 30
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

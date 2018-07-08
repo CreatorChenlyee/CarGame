@@ -1,0 +1,28 @@
+{
+  "name": "meta-sort",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/meta-sort/sort": {
+      "message": "meta-sort:sort"
+    },
+    "i18n:MAIN_MENU.package.title/meta-sort/enable": {
+      "message": "meta-sort:enable"
+    },
+    "i18n:MAIN_MENU.package.title/meta-sort/disable": {
+      "message": "meta-sort:disable"
+    },
+    "i18n:MAIN_MENU.package.title/meta-sort/toggle-debug": {
+      "message": "meta-sort:toggle-debug"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "meta-sort",
+    "width": 400,
+    "height": 300
+  }
+}

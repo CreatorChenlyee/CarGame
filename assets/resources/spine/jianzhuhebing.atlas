@@ -1,0 +1,167 @@
+
+jianzhuhebing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_image/jianzhuhebing/fangzi
+  rotate: false
+  xy: 146, 19
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/fangzi2
+  rotate: false
+  xy: 554, 446
+  size: 142, 122
+  orig: 142, 122
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/smoke/xiaoshiyun_0001
+  rotate: false
+  xy: 922, 922
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/smoke/xiaoshiyun_0002
+  rotate: false
+  xy: 554, 220
+  size: 117, 105
+  orig: 117, 105
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/smoke/xiaoshiyun_0003
+  rotate: false
+  xy: 290, 21
+  size: 122, 111
+  orig: 122, 111
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/smoke/xiaoshiyun_0004
+  rotate: false
+  xy: 554, 327
+  size: 129, 117
+  orig: 129, 117
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/smoke/xiaoshiyun_0005
+  rotate: false
+  xy: 738, 663
+  size: 136, 123
+  orig: 136, 123
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/smoke/xiaoshiyun_0006
+  rotate: false
+  xy: 2, 2
+  size: 142, 130
+  orig: 142, 130
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0001
+  rotate: false
+  xy: 2, 788
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0002
+  rotate: false
+  xy: 2, 570
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0003
+  rotate: false
+  xy: 186, 788
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0004
+  rotate: false
+  xy: 2, 352
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0005
+  rotate: false
+  xy: 186, 570
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0006
+  rotate: false
+  xy: 370, 788
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0007
+  rotate: false
+  xy: 2, 134
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0008
+  rotate: false
+  xy: 186, 352
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0009
+  rotate: false
+  xy: 370, 570
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0010
+  rotate: false
+  xy: 554, 788
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0011
+  rotate: false
+  xy: 186, 134
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0012
+  rotate: false
+  xy: 370, 352
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0013
+  rotate: false
+  xy: 554, 570
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0014
+  rotate: false
+  xy: 738, 788
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1
+spine_image/jianzhuhebing/xingxingzhakai/xingxingzhakai_0015
+  rotate: false
+  xy: 370, 134
+  size: 182, 216
+  orig: 182, 216
+  offset: 0, 0
+  index: -1

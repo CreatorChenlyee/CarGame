@@ -1,0 +1,25 @@
+{
+  "name": "clear-caches",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/clear-caches/clear-cache": {
+      "message": "clear-caches:clear-cache"
+    },
+    "i18n:MAIN_MENU.package.title/clear-caches/enable": {
+      "message": "clear-caches:enable"
+    },
+    "i18n:MAIN_MENU.package.title/clear-caches/disable": {
+      "message": "clear-caches:disable"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "clear-caches",
+    "width": 400,
+    "height": 300
+  }
+}

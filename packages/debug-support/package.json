@@ -1,0 +1,22 @@
+{
+  "name": "debug-support",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "开发工具/开发环境/关闭调试模式": {
+      "message": "debug-support:disable-debug"
+    },
+    "开发工具/开发环境/开启调试模式": {
+      "message": "debug-support:enable-debug"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "debug-support",
+    "width": 400,
+    "height": 300
+  }
+}

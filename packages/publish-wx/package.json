@@ -1,0 +1,25 @@
+{
+  "name": "publish-wx",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "每日给力/工作流/发布版本/Develop": {
+      "message": "publish-wx:Develop"
+    },
+    "每日给力/工作流/发布版本/Test": {
+      "message": "publish-wx:Test"
+    },
+    "每日给力/工作流/发布版本/Release": {
+      "message": "publish-wx:Release"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "export-excel",
+    "width": 400,
+    "height": 300
+  }
+}

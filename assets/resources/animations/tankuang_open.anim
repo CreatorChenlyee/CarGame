@@ -1,0 +1,100 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tankuang_open",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.17,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "root": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                1031
+              ],
+              "curve": [
+                0.45,
+                0.81,
+                0.57,
+                0.92
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                0,
+                -41
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.48,
+                0.89,
+                0.53,
+                0.97
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.1,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "",
+      "params": []
+    }
+  ]
+}

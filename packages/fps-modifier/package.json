@@ -1,0 +1,19 @@
+{
+  "name": "fps-modifier",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/fps-modifier/open": {
+      "message": "fps-modifier:open"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "fps-modifier",
+    "width": 400,
+    "height": 300
+  }
+}
